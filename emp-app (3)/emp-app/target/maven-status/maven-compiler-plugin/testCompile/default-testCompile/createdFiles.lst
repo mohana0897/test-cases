@@ -1,0 +1,4 @@
+com\sun\emp\controller\EmployeeControllerTest.class
+com\sun\emp\EmpAppApplicationTests.class
+com\sun\emp\repository\EmployeeRepositoryTest.class
+com\sun\emp\service\EmployeeServiceTest.class
